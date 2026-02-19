@@ -51,7 +51,7 @@ The program evaluates:
 - Open a terminal inside the extracted folder
 
 #### 2) Compile and Run
-- Comile the program using:
+- Compile the program using:
     - $ javac PasswordStrengthChecker.java
 - Run the program using:
     - $ java PasswordStrengthChecker
