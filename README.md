@@ -56,3 +56,37 @@ The program evaluates:
 - Run the program using:
     - $ java PasswordStrengthChecker
 - Follow the script on the prompt to check a password
+
+---
+
+## Limitations
+
+This tool is for educational purposes only.
+
+- The scoring mechanism is heuristic-oriented and does not conform to a recognized security standard.
+- It does not compare passwords to real-world leaked password lists.
+- It does not calculate actual password entropy or resistance to advanced attacks.
+- A high score does not necessarily mean a password is secure.
+- Password entry is displayed in the console. Do not use real passwords for important accounts.
+
+This program is intended to illustrate fundamental principles of password security, not to offer professional-level security testing.
+
+---
+
+## Ethical Considerations and Responsible Use
+
+This project illustrates a fundamental principle of password security. Although it is intended to encourage sound password hygiene, it could be abused if not used responsibly.
+
+Possible misuse includes:
+- Giving users a false sense of security if they rely only on this score.
+- Logging, storing, or transmitting user passwords without their consent.
+- Using this program to test real user passwords in a non-consensual or otherwise unethical setting.
+
+Responsible use guidelines:
+
+- Use this program only for educational or testing purposes.
+- Do not log, store, or transmit passwords entered into the program.
+- Do not use this program as a professional-level security auditing system.
+- Recommend users of this program to use password managers and multi-factor authentication for real security.
+
+Security-related software carries ethical responsibility. Developers should ensure transparency, avoid misleading users, and prioritize user privacy and safety.
