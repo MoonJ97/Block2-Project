@@ -1,4 +1,4 @@
-# Password Strength Tester (Java)
+# Password Strength Checker
 
 ## Overview
 
